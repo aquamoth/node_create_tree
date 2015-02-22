@@ -1,4 +1,4 @@
-// Copyright (c) 2015 Trustfall AB. Licensed as "Use-as-you-like-at-own-risk"
+// Copyright (c) 2015 Trustfall AB. See LICENSE for details of the MIT license.
 
 // This tool creates a directory tree with generated files.
 "use strict";
